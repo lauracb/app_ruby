@@ -1,0 +1,27 @@
+Símbolo utilizado en Ruby para crear una variable de instancia.
+@
+
+Palabra reservada para crear un método en Ruby.
+def
+
+Método de Ruby que retorna una copia de un string con todas las letras mayúsculas.
+upcase
+
+Palabra reservada para imprimir un resultado en Ruby sin salto de línea.
+print
+
+A qué tipo de datos en Ruby pertenecen el par llave: valor.
+hash
+
+Tipo de método que es accesibles únicamente desde las instancias de la clase en Ruby.
+private
+
+Método de Ruby que retorna un hash nuevo y vacío.
+new
+
+Valor especial reservado para indicar la ausencia de valor en Ruby.
+nil
+
+Operador lógico en Ruby que indica la conjunción de dos valores.
+&&
+
